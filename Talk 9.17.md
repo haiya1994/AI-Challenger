@@ -6,7 +6,8 @@
 
 ## 任务1
 1.数据预处理--图片重命名(场景_num)  
-2.VGG导出每张图片的label
+2.VGG导出每张图片的label  
+3.train一个新网络
 
 ## 任务2
 1.重新train Net  
